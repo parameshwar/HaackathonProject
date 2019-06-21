@@ -1,0 +1,10 @@
+C:\Users\pvendicolxp\documents\simpleAPIlsn\src\SimpleAPI\bin\Debug\netcoreapp2.0\SimpleAPI.deps.json
+C:\Users\pvendicolxp\documents\simpleAPIlsn\src\SimpleAPI\bin\Debug\netcoreapp2.0\SimpleAPI.runtimeconfig.json
+C:\Users\pvendicolxp\documents\simpleAPIlsn\src\SimpleAPI\bin\Debug\netcoreapp2.0\SimpleAPI.runtimeconfig.dev.json
+C:\Users\pvendicolxp\documents\simpleAPIlsn\src\SimpleAPI\bin\Debug\netcoreapp2.0\SimpleAPI.dll
+C:\Users\pvendicolxp\documents\simpleAPIlsn\src\SimpleAPI\bin\Debug\netcoreapp2.0\SimpleAPI.pdb
+C:\Users\pvendicolxp\documents\simpleAPIlsn\src\SimpleAPI\obj\Debug\netcoreapp2.0\SimpleAPI.csproj.CoreCompileInputs.cache
+C:\Users\pvendicolxp\documents\simpleAPIlsn\src\SimpleAPI\obj\Debug\netcoreapp2.0\SimpleAPI.AssemblyInfoInputs.cache
+C:\Users\pvendicolxp\documents\simpleAPIlsn\src\SimpleAPI\obj\Debug\netcoreapp2.0\SimpleAPI.AssemblyInfo.cs
+C:\Users\pvendicolxp\documents\simpleAPIlsn\src\SimpleAPI\obj\Debug\netcoreapp2.0\SimpleAPI.dll
+C:\Users\pvendicolxp\documents\simpleAPIlsn\src\SimpleAPI\obj\Debug\netcoreapp2.0\SimpleAPI.pdb

@@ -1,0 +1,13 @@
+C:\Users\pvendicolxp\documents\simpleAPIlsn\test\SimpleAPI.Test\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\pvendicolxp\documents\simpleAPIlsn\test\SimpleAPI.Test\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\pvendicolxp\documents\simpleAPIlsn\test\SimpleAPI.Test\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\pvendicolxp\documents\simpleAPIlsn\test\SimpleAPI.Test\bin\Debug\netcoreapp2.0\SimpleAPI.Test.deps.json
+C:\Users\pvendicolxp\documents\simpleAPIlsn\test\SimpleAPI.Test\bin\Debug\netcoreapp2.0\SimpleAPI.Test.runtimeconfig.json
+C:\Users\pvendicolxp\documents\simpleAPIlsn\test\SimpleAPI.Test\bin\Debug\netcoreapp2.0\SimpleAPI.Test.runtimeconfig.dev.json
+C:\Users\pvendicolxp\documents\simpleAPIlsn\test\SimpleAPI.Test\bin\Debug\netcoreapp2.0\SimpleAPI.Test.dll
+C:\Users\pvendicolxp\documents\simpleAPIlsn\test\SimpleAPI.Test\bin\Debug\netcoreapp2.0\SimpleAPI.Test.pdb
+C:\Users\pvendicolxp\documents\simpleAPIlsn\test\SimpleAPI.Test\obj\Debug\netcoreapp2.0\SimpleAPI.Test.csproj.CoreCompileInputs.cache
+C:\Users\pvendicolxp\documents\simpleAPIlsn\test\SimpleAPI.Test\obj\Debug\netcoreapp2.0\SimpleAPI.Test.AssemblyInfoInputs.cache
+C:\Users\pvendicolxp\documents\simpleAPIlsn\test\SimpleAPI.Test\obj\Debug\netcoreapp2.0\SimpleAPI.Test.AssemblyInfo.cs
+C:\Users\pvendicolxp\documents\simpleAPIlsn\test\SimpleAPI.Test\obj\Debug\netcoreapp2.0\SimpleAPI.Test.dll
+C:\Users\pvendicolxp\documents\simpleAPIlsn\test\SimpleAPI.Test\obj\Debug\netcoreapp2.0\SimpleAPI.Test.pdb
